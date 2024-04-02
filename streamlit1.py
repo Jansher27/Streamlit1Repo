@@ -7,7 +7,7 @@ def main():
     it has been determined March Marquez was at fault for the crash with 2 time champion
     Pecco Bagnia. More to come soon.
     
-    Additional informaiton will be coming soon through the media""")
+    Additional informaiton will be coming soon through the media.""")
     
 
 if __name__ == "__main__":
