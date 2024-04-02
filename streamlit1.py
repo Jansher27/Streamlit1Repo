@@ -5,7 +5,7 @@ def main():
     st.text("""
     After serioius delibration amongst Dorna and Libery Media, the new owners of MotoGP,
     it has been determined Marc Marquez was at fault for the crash with 2 time champion
-    Pecco Bagnia. More to come soon.
+    Pecco Bagnaia. More to come soon.
     
     Additional informaiton will be coming soon through the media.""")
     
